@@ -1,0 +1,10 @@
+{
+  "name": "strategy-to-service",
+  "version": "0.1.0",
+  "description": "A worked example of AI-assisted delivery from strategy to measured benefits: one skill per business stage, a clear development sequence, and value defined before build and measured after release.",
+  "author": { "name": "IDST UK", "url": "https://idst.uk" },
+  "homepage": "https://idst.uk/strategy-to-service/",
+  "repository": "https://github.com/IDSTUK/strategy-to-service",
+  "license": "MIT",
+  "keywords": ["sdlc", "business-case", "benefits", "delivery", "planning"]
+}

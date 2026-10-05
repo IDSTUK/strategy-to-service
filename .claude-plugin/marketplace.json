@@ -1,0 +1,13 @@
+{
+  "name": "idst",
+  "description": "Skills from IDST UK",
+  "owner": { "name": "IDST UK", "url": "https://idst.uk" },
+  "plugins": [
+    {
+      "name": "strategy-to-service",
+      "source": "./",
+      "description": "A worked example of AI-assisted delivery from strategy to measured benefits.",
+      "version": "0.1.0"
+    }
+  ]
+}
